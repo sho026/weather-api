@@ -11,6 +11,12 @@ A simple REST API that returns the current temperature for any given US ZIP code
 - **Geocoding**: [Zippopotam.us](https://www.zippopotam.us/) — free, no API key needed
 - **Testing**: Jest + Supertest
 
+## AI Assistance 
+
+Used Claude (AI) to help start the inital creation of this project, setup some Typescript configuration, and used it for testing.
+
+Working alongside with Claude to debug codes during the process of creating the project, helped figure out what is lacking in the code written and suggests improvement for changes.
+
 ## Getting Started
 
 ```bash
